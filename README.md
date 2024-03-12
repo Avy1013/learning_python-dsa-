@@ -1,2 +1,2 @@
 # learning_python-dsa-
-I am gonna follow the nptel course of programming, data structure and algorithm 
+I am gonna follow the nptel course of programming, data structure and algorithm by Madhavan Mukund
